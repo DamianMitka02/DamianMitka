@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Damian</h1>
 <h3 align="center">Flutter Developer • IT Student • Tech Enthusiast</h3>
 
 ---
@@ -23,16 +23,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=twoj-login&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=damianmitka02&show_icons=true&theme=default" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoj-login&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianmitka02&layout=compact" alt="Top Langs"/>
 </p>
 
 ---
 
 ### 📫 Connect with me
 
-- ✉️ your.email@example.com  
+- ✉️ damianmitka02@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
